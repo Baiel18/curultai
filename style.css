@@ -1,0 +1,175 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: black;
+    display: flex;
+    align-items: center;
+    height: 102px;
+}
+
+.head {
+    display: flex;
+    gap: 113px;
+}
+
+.search {
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 42.6045px;
+    width: 530px;
+    height: 46.86px;
+    padding: 15px;
+    border: none;
+}
+
+.btn-1 {
+    background-color: black;
+    color: aliceblue;
+}
+
+.ic {
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 50px;
+    padding: 10px;
+}
+
+.icons-one {
+    display: flex;
+    gap: 13px;
+}
+
+.b {
+    display: flex;
+    align-items: center;
+    gap: 64px;
+}
+
+.b-one {
+    display: flex;
+    gap: 34px;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    margin-top: 10px;
+}
+
+.nav {
+    background: #FFFFFF;
+    border-radius: 20px;
+    box-shadow: 0px 0.943061px 0.943061px rgba(0, 0, 0, 0.1), 0px 0px 0.943061px rgba(0, 0, 0, 0.25);
+    padding: 26px;
+    display: flex;
+    flex-direction: column;
+    height: 620px;
+}
+
+.content-1 {
+    display: flex;
+    flex-direction: column;
+    gap: 13px;
+}
+
+.content {
+    width: 560px;
+    padding: 20px;
+    background: #FFFFFF;
+    box-shadow: 0px 0.943061px 0.943061px rgba(0, 0, 0, 0.1), 0px 0px 0.943061px rgba(0, 0, 0, 0.25);
+    border-radius: 14.2418px;
+}
+
+.content img {
+    margin-bottom: 16px;
+}
+
+.podelitsia {
+    display: flex;
+    gap: 99px;
+}
+
+.like {
+    display: flex;
+    gap: 5px;
+}
+
+.p-one {
+    display: flex;
+    gap: 10px;
+}
+
+.p-two {
+    display: flex;
+    gap: 5px;
+}
+
+.btn-2 {
+    background: #DC8400;
+    border-radius: 20px;
+    padding: 12px 207px;
+    border: #DC8400;
+}
+
+.prosses {
+    background: #DC8400;
+    border-radius: 20px;
+    width: 493px;
+    height: 14px;
+}
+
+.pross {
+    display: flex;
+    flex-direction: column;
+    gap: 27px;
+}
+
+.user {
+    text-align: center;
+}
+
+.user img {
+    border-radius: 12.486px;
+}
+
+.user p {
+    font-weight: bolder;
+}
+
+.navigator div svg,
+.navigator div p,
+.navigator-2 div p,
+.navigator-2 div svg {
+    color: #B36116;
+}
+
+.navigator div,
+.navigator-2 div {
+    display: flex;
+    gap: 9px;
+}
+
+.rubrici {
+    display: flex;
+    gap: 215px;
+    background: #F0F2F5;
+    border-radius: 8px;
+    padding: 5px;
+    height: 33px;
+}
+
+.p {
+    padding: 25px;
+    line-height: 10px;
+}
+
+.res {
+    background: #FFFFFF;
+    border-radius: 15.3648px;
+    height: 405px;
+    width: 349px;
+    padding: 9px;
+    box-shadow: 0px 0.943061px 0.943061px rgba(0, 0, 0, 0.1), 0px 0px 0.943061px rgba(0, 0, 0, 0.25);
+}
